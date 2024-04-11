@@ -1,0 +1,9 @@
+D:\C#\asegment\asegment\bin\Debug\asegment.exe.config
+D:\C#\asegment\asegment\bin\Debug\asegment.exe
+D:\C#\asegment\asegment\bin\Debug\asegment.pdb
+D:\C#\asegment\asegment\obj\Debug\asegment.csprojResolveAssemblyReference.cache
+D:\C#\asegment\asegment\obj\Debug\asegment.Form1.resources
+D:\C#\asegment\asegment\obj\Debug\asegment.Properties.Resources.resources
+D:\C#\asegment\asegment\obj\Debug\asegment.csproj.GenerateResource.Cache
+D:\C#\asegment\asegment\obj\Debug\asegment.exe
+D:\C#\asegment\asegment\obj\Debug\asegment.pdb
